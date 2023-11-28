@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["log_init","log_print","set_level"]};

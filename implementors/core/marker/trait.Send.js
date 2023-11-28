@@ -1,0 +1,3 @@
+(function() {var implementors = {
+"AR3_rs":[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.73.0/core/marker/trait.Send.html\" title=\"trait core::marker::Send\">Send</a> for <a class=\"struct\" href=\"AR3_rs/struct.Ar3.html\" title=\"struct AR3_rs::Ar3\">Ar3</a>",1,["AR3_rs::Ar3"]]]
+};if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
